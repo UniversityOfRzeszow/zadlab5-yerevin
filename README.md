@@ -26,4 +26,19 @@ Zaprojektuj klasę symulującą działanie struktury stosu. W ramach klasy wyst�
 
 ###### https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
 
+## Zadanie 4
+Zdefiniuj klasę opisującą datę:
+
+* Zastanów się nad wyborem wewnętrznej reprezentacji dat. 
+* Zdefiniuj metody pozwalające na odczytywanie bieżącej daty i przestawianie jej o jeden tydzień w przód i w tył. 
+* Zadbaj o dobranie odpowiednich modyfikatorów dostępu do składowych. 
+
+
+## Zadanie 5
+Zdefiniuj klasę `Pracownik` (podobnie do klasy [osoba](https://github.com/UniversityOfRzeszow/OOPL4#zadanie-1) z wykładu, dodając jeszcze tekstową informację o zajmowanym przez pracownika stanowisku). Następnie zdefiniuj klasę `Firma`, która by przechowywała w tablicy spis wszystkich pracowników (możesz założyć, że liczba pracowników nie przekracza 100). Zdefiniuj metody dodawania nowych pracowników do firmy oraz wypisywania aktualnego spisu pracowników. Zastanów się, jak przy ostatnim zadaniu rozdzielić odpowiedzialności pomiędzy obie klasy.
+
+## Zadanie 6
+Zdefiniuj klasę `Liczba`, która przechowuje w tablicy cyfry liczby dziesiętnej. Zdefiniuj operacje wypisywania liczby, nadawania jej wartości (w postaci parametru konstruktora będącego napisem) oraz mnożenia przez liczbę typu `int`. W przypadku gdy w czasie mnożenia okaże się, że tablica jest za mała, procedura mnożąca powinna kopiować jej zawartość do większej. Zdefiniuj metodę `silnia`, która policzy silnię zadanej jako parametr liczby typu `int`. 
+
+
 ##### Opracował dr inż. Wojciech Kozioł
