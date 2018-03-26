@@ -22,4 +22,8 @@ Zaprojektuj klasę symulującą działanie struktury stosu. W ramach klasy wyst�
 
 * Utwórz konstruktor, którego argumentem jest rozmiar stosu. W ciele konstruktora dokonaj inicjalizacji n-elementowej tablicy reprezentującej stos. Pamiętaj, że instrukcja `push` i `pop` zmieniają odpowiednio wskaźnik stosu.
 
+![https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm](https://www.tutorialspoint.com/data_structures_algorithms/images/stack_representation.jpg)
+
+###### https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
+
 ##### Opracował dr inż. Wojciech Kozioł
